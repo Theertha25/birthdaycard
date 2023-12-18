@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 13px;
+}
+body{
+    background: #C5DCEE;
+    align-items: center;
+}
+img{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    
+}
+h1{
+    font-style: normal;
+    font: bold;
+    color: #fff;
+}
+h2,h3{
+    color: #fff;
+}
+.birthday{
+    border-radius: 20px;
+    position: absolute;
+    top:20%;
+    transform: translate(-60%,-20%);
+    background: rgba(0,0,0,0.5);
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px rgba(0,0,0,0.9);
+    text-align: center;
+    margin: 40px auto;
+    color: #eee;
+    background: linear-gradient(to bottom right, #B1227A, #429AEE);
+    right:20%;
+    
+}
